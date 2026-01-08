@@ -1,2 +1,2 @@
-# gba-scenic-route-env
-A template for a base environment to use with the GBA Scenic Route.
+# env-learning
+A sample repository to learn how to use the gba-scenic environment.
