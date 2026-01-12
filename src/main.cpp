@@ -10,11 +10,11 @@
 int main() {
     bn::core::init();
 
-    bn::backdrop::set_color(bn::color(15, 0, 0));
+    bn::backdrop::set_color(bn::color(15, 25, 0));
 
     auto dot = bn::sprite_items::dot.create_sprite(0, 0);
 
-    bn::fixed speed = 1.5;
+    bn::fixed speed = 1.0;
 
     bn::fixed dy = 0;
     bn::fixed gravity = .03;
